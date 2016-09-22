@@ -21,4 +21,5 @@ PRODUCT_COPY_FILES += \
     vendor/htc/flounder/proprietary/bin/tinycap:system/bin/tinycap \
     vendor/htc/flounder/proprietary/bin/tinymix:system/bin/tinymix \
     vendor/htc/flounder/proprietary/bin/tinyplay:system/bin/tinyplay \
-    vendor/htc/flounder/proprietary/bin/xaplay:system/bin/xaplay
+    vendor/htc/flounder/proprietary/bin/xaplay:system/bin/xaplay \
+    vendor/htc/flounder/proprietary/lib64/libprotobuf-cpp-full.so:system/lib64/libprotobuf-cpp-full.so
